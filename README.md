@@ -6,7 +6,7 @@
 
 Hola, te invito a ver mi perfil de linkedin
 
-<a href="https://github.com/jmansilla-2014056?tab=repositories/" target="_blank">
+<a href="https://github.com/jmansilla-2014056?tab=repositories" target="_blank">
   <img align="left" alt="Mansilla's LinkedIN" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <a/>
 
