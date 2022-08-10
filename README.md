@@ -4,10 +4,10 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 <a/>
 
-Hola, te invito a hecharle a un vistaso a mis repositorios 
+Hola, te invito a ver mi perfil de linkedin
 
   <img align="right" alt="GIF" src="https://github.com/jmansilla-2014056/jmansilla-2014056/blob/master/code.gif?raw=true" >
-- 💬 ask me about anything, i am happy to help;
+- 💬 Tambien te invito a ver algunos algunos de mis repositorios;
 
 **languages and tools:**  
 
@@ -24,7 +24,3 @@ Hola, te invito a hecharle a un vistaso a mis repositorios
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jmansilla-2014056&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-
-
