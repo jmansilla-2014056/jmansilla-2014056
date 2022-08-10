@@ -1,15 +1,12 @@
 ### hey there 
 
-<a href="https://www.linkedin.com/in/jmansilla-2014056/">
-  <img align="left" alt="Mansilla's LinkedIN" width="22px" src="https://www.linkedin.com/in/jesus-mansilla-523424230/" />
-</a>
-
-<br />
+<a href="https://www.linkedin.com/in/jeamv-illatoro/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a/>
 
 Hola, te invito a hecharle a un vistaso a mis repositorios 
 
-  <img align="right" alt="GIF" src="https://github.com/jmansilla-2014056/jmansilla-2014056/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+  <img align="right" alt="GIF" src="https://github.com/jmansilla-2014056/jmansilla-2014056/blob/master/code.gif?raw=true" >
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
